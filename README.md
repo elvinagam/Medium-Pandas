@@ -2,8 +2,6 @@
 <p align="center"> 
 <a href="https://github.com/elvinagam"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=elvinagam&color=ff3300" alt="Last Commit"/></a> 
 <img src="https://badges.pufler.dev/created/elvinagam/Medium-Pandas" alt="Created"/>
-<a href="https://github.com/elvinagam/Medium-Pandas/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/elvinagam/Medium-Pandas.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
-<a href="https://github.com/elvinagam/Medium-Pandas/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/elvinagam/Medium-Pandas.svg?colorB=teal&style=flat" /></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felvinagam%2FMedium-Pandas&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <a href="https://github.com/elvinagam/Medium-Pandas/stargazers"><img src="https://img.shields.io/github/stars/elvinagam/Medium-Pandas.svg?colorB=1a53ff" alt="Stars Badge"/></a>
 <a href="https://github.com/elvinagam/Medium-Pandas/network/members"><img src="https://img.shields.io/github/forks/elvinagam/Medium-Pandas" alt="Forks Badge"/> </a>
