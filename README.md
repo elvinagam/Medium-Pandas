@@ -72,8 +72,8 @@ Pandas have two core data structure components, and all operations are based on 
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-| 01 | **[Python_Pandas_DataFrame](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_DataFrame.ipynb)** |
-|    | 1.1 **[001_Python_Pandas_DataFrame_from_Dictionary]
+| 01 | **[Python_Pandas_DataFrame](https://github.com/elvinagam/Medium-Pandas/blob/main/Medium_Pandas.ipynb)** |
+|    | 1.1 **[001_Python_Pandas_DataFrame_Medium_Trials]
 
 ---
 
@@ -107,4 +107,4 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/elvina
 
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
-
+Hopefully, more is to come for this repo.
