@@ -1,15 +1,7 @@
 # Medium-Pandas
 <p align="center"> 
 <a href="https://github.com/elvinagam"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=elvinagam&color=ff3300" alt="Last Commit"/></a> 
-<img src="https://badges.pufler.dev/created/elvinagam/Medium-Pandas" alt="Created"/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felvinagam%2FMedium-Pandas&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-<a href="https://github.com/elvinagam/Medium-Pandas/stargazers"><img src="https://img.shields.io/github/stars/elvinagam/Medium-Pandas.svg?colorB=1a53ff" alt="Stars Badge"/></a>
-<a href="https://github.com/elvinagam/Medium-Pandas/network/members"><img src="https://img.shields.io/github/forks/elvinagam/Medium-Pandas" alt="Forks Badge"/> </a>
-<img src="https://img.shields.io/github/repo-size/elvinagam/Medium-Pandas.svg?colorB=CC66FF&style=flat" alt="Size"/>
-<a href="https://github.com/elvinagam/Medium-Pandas/pulls"><img src="https://img.shields.io/github/issues-pr/elvinagam/Medium-Pandas.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/elvinagam/Medium-Pandas/issues"><img src="https://img.shields.io/github/issues/elvinagam/Medium-Pandas.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/elvinagam/Medium-Pandas.svg?colorB=996600&style=flat" alt="Language"/></a> 
-<a href="https://github.com/elvinagam/Medium-Pandas/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/elvinagam/Medium-Pandas?size=50&padding=5&bots=true" alt="elvinagam"/>-->
 
