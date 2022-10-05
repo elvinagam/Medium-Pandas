@@ -9,9 +9,6 @@
 <a href="https://mybinder.org/v2/gh/elvinagam/Medium-Pandas/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 <a href="https://githubtocolab.com/elvinagam/Medium-Pandas"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
 </p> 
- 
-# 10_Python_Pandas_Module
-
 
 ## Introduction 👋
 
@@ -76,24 +73,7 @@ Pandas have two core data structure components, and all operations are based on 
 | **No.** | **Name** | 
 | ------- | -------- | 
 | 01 | **[Python_Pandas_DataFrame](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_DataFrame.ipynb)** |
-|    | 1.1 **[001_Python_Pandas_DataFrame_from_Dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/001_Python_Pandas_DataFrame_from_Dictionary.ipynb)** |
-|    | 1.2 **[Python_Pandas_DataFrame_from_List](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/002_Python_Pandas_DataFrame_from_List.ipynb)** |
-|    | 1.3 **[Python_Pandas_DataFrame_head()_and_tail()](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/003_Python_Pandas_DataFrame_head()_and_tail().ipynb)** |
-|    | 1.4 **[004_Python_Pandas_DataFrame_drop_columns](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/004_Python_Pandas_DataFrame_drop_columns.ipynb)** |
-|    | 1.5 **[Python_Pandas_DataFrame_drop_duplicates](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/005_Python_Pandas_DataFrame_drop_duplicates.ipynb)** |
-|    | 1.6 **[Python_Pandas_DataFrame_drop_columns_with_NA](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/006_Python_Pandas_DataFrame_drop_columns_with_NA.ipynb)** |
-|    | 1.7 **[Python_Pandas_DataFrame_rename_columns](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/007_Python_Pandas_DataFrame_rename_columns.ipynb)** |
-|    | 1.8 **[Python_Pandas_DataFrame_to_Python_dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/008_Python_Pandas_DataFrame_to_Python_dictionary.ipynb)** |
-|    | 1.9 **[Python_Pandas_DataFrame_set_index](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/009_Python_Pandas_DataFrame_set_index.ipynb)** |
-|    | 1.10 **[Python_Pandas_DataFrame_reset_index](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/010_Python_Pandas_DataFrame_reset_index.ipynb)** |
-| 02 | **[Python_Pandas_Exercise_1](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/002_Python_Pandas_Exercise_1.ipynb)** |
-| 03 | **[Python_Pandas_Exercise_2](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/003_Python_Pandas_Exercise_2.ipynb)** |
-|    | **[automobile_data.csv](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/automobile_data.csv)** |
-|    | **[pokemon_data.csv](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/pokemon_data.csv)** |
-| 04 | **[Pandas Cheat Sheet Data Wrangling in Python.pdf](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/Pandas%20Cheat%20Sheet%20Data%20Wrangling%20in%20Python.pdf)** |
-| 05 | **[Pandas Cheat Sheet for Data Science in Python.pdf](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/Pandas%20Cheat%20Sheet%20for%20Data%20Science%20in%20Python.pdf)** |
-
-These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/10_Python_Pandas_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+|    | 1.1 **[001_Python_Pandas_DataFrame_from_Dictionary]
 
 ---
 
@@ -108,31 +88,8 @@ Once Installed now we can import it inside our python code.
 
 ---  
 
-## Frequently asked questions ❔
-
-### How can I thank you for writing and sharing this tutorial? 🌷
-
-You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
 Go [**`here`**](https://github.com/elvinagam/Medium-Pandas) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You'll be asked to create a GitHub account if you don't already have one.
-
----
-
-### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
-
-1. Go [**`here`**](https://github.com/elvinagam/Medium-Pandas) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/elvinagam/Medium-Pandas/archive/refs/heads/main.zip).
-
-    ![Download ZIP](img/dnld_rep.png)
-
-2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
-    
-3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
-  
-    **`Kernel > Restart & Clear Output`**
-    
-This will clear all the outputs and now you can understand each statement and learn interactively.
-
-If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
 
 ---
 
